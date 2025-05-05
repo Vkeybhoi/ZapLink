@@ -1,0 +1,5 @@
+{
+  "jest.jestCommandLine": "yarn test",
+  "jest.pathToConfig": "backend/jest.config.ts",
+  "jest.autoRun": "off" // Optional: Disable auto-run to avoid conflicts
+}
