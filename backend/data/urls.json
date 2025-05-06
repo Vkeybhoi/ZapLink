@@ -1,0 +1,186 @@
+{
+  "urlStore": [
+    [
+      "JX0zs6",
+      "https://example.com"
+    ],
+    [
+      "eLKZX6",
+      "https://example.com"
+    ],
+    [
+      "w0jfUE",
+      "https://example.com"
+    ],
+    [
+      "O6fhVs",
+      "https://example1.com"
+    ],
+    [
+      "--EQM1",
+      "https://example2.com"
+    ],
+    [
+      "ss8pp3",
+      "https://example.com"
+    ],
+    [
+      "P2yCrP",
+      "https://example.com"
+    ],
+    [
+      "7NESc_",
+      "https://grok.com/chat/93c41bba-2217-43bc-930d-05074718e8d3"
+    ],
+    [
+      "O6yAhX",
+      "https://example.com"
+    ],
+    [
+      "BGsKzZ",
+      "https://example.com"
+    ],
+    [
+      "_taI3R",
+      "https://example.com"
+    ],
+    [
+      "S0KaHi",
+      "https://example1.com"
+    ],
+    [
+      "pOe2tA",
+      "https://example2.com"
+    ],
+    [
+      "2Sqi2q",
+      "https://example.com"
+    ],
+    [
+      "Sgo47E",
+      "https://example.com"
+    ]
+  ],
+  "statsStore": [
+    [
+      "JX0zs6",
+      {
+        "createdAt": "2025-05-06T15:10:11.254Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "eLKZX6",
+      {
+        "createdAt": "2025-05-06T15:10:11.293Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "w0jfUE",
+      {
+        "createdAt": "2025-05-06T15:10:11.297Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "O6fhVs",
+      {
+        "createdAt": "2025-05-06T15:10:11.304Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "--EQM1",
+      {
+        "createdAt": "2025-05-06T15:10:11.304Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "ss8pp3",
+      {
+        "createdAt": "2025-05-06T15:10:11.309Z",
+        "visits": 1,
+        "lastVisited": "2025-05-06T15:10:11.309Z"
+      }
+    ],
+    [
+      "P2yCrP",
+      {
+        "createdAt": "2025-05-06T15:10:12.555Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "7NESc_",
+      {
+        "createdAt": "2025-05-06T15:10:55.537Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "O6yAhX",
+      {
+        "createdAt": "2025-05-06T15:11:03.047Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "BGsKzZ",
+      {
+        "createdAt": "2025-05-06T15:11:03.172Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "_taI3R",
+      {
+        "createdAt": "2025-05-06T15:11:03.185Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "S0KaHi",
+      {
+        "createdAt": "2025-05-06T15:11:03.193Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "pOe2tA",
+      {
+        "createdAt": "2025-05-06T15:11:03.193Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "2Sqi2q",
+      {
+        "createdAt": "2025-05-06T15:11:03.197Z",
+        "visits": 1,
+        "lastVisited": "2025-05-06T15:11:03.198Z"
+      }
+    ],
+    [
+      "Sgo47E",
+      {
+        "createdAt": "2025-05-06T15:11:04.382Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ]
+  ]
+}

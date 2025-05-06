@@ -7,13 +7,12 @@ describe("UrlService", () => {
     urlService = new UrlService();
   });
 
-  test("encode should create a short URL for a valid long URL", async () => {
-    const longUrl = "https://example.com";
+  test('encode should create a short URL for a valid long URL', async () => {
+    const longUrl = 'https://example.com';
     const shortUrl = await urlService.encode(longUrl);
-
-    expect(shortUrl).toMatch(/^http:\/\/zap\.link\/[a-zA-Z0-9]{6}$/);
+  
+    expect(shortUrl).toMatch(/^http:\/\/localhost:3001\/[a-zA-Z0-9]{6}$/);
   });
-
   test("encode should throw an error for an invalid long URL", async () => {
     const invalidUrl = "invalid-url";
 

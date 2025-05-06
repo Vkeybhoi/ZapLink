@@ -47,7 +47,9 @@ export class UrlController {
   async redirect(req: Request, res: Response) {
     try {
       const { urlPath } = req.params;
+      console.log(`Redirecting for urlPath: ${urlPath}`); // Debugging
       const longUrl = await UrlController.urlService.redirect(urlPath);
+      console.log(`Redirecting to longUrl: ${longUrl}`); // Debugging
       res.redirect(longUrl);
     } catch (error) {
       res.status(404).json({ error: (error as Error).message });
