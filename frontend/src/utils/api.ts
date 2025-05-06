@@ -1,5 +1,5 @@
 import axios from "axios";
-import type { UrlRecord } from "../types"; // Type-only import
+import type { UrlRecord } from "../types"; 
 
 const API_BASE_URL = "http://localhost:3001";
 

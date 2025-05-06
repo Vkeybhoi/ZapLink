@@ -7,7 +7,7 @@ const config: Config.InitialOptions = {
     "^.+\\.tsx?$": "ts-jest",
   },
   transformIgnorePatterns: [
-    "/node_modules/", // Ensure node_modules are ignored
+    "/node_modules/", 
   ],
   moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json", "node"],
   testMatch: ["**/__tests__/**/*.test.ts"],

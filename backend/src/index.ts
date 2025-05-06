@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 clearData();
 
-// Mount URL routes
+// URL routes
 app.use('/', urlRoutes);
 
 app.get('/', (_req, res) => {

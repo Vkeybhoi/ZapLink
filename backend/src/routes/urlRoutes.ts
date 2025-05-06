@@ -9,10 +9,7 @@ router.post('/api/encode', encodeRateLimiter, controller.encode);
 router.get('/api/decode', controller.decode);
 router.get('/api/statistic/:urlPath', controller.getStats);
 router.get('/api/list', controller.list);
-router.get('/:urlPath', async (req, res) => {
-    console.log(`Received request for urlPath: ${req.params.urlPath}`); 
-    await controller.redirect(req, res);
-  });
+router.get('/api/redirect/:urlPath', controller.redirect);
 router.get('/api/qr/:urlPath', controller.getQRCode);
 
 export default router;

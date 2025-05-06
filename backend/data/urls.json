@@ -59,6 +59,30 @@
     [
       "Sgo47E",
       "https://example.com"
+    ],
+    [
+      "0-Y3fe",
+      "https://example.com"
+    ],
+    [
+      "3wi2Ir",
+      "https://example.com"
+    ],
+    [
+      "zCGNO4",
+      "https://example.com"
+    ],
+    [
+      "shll0v",
+      "https://example.com"
+    ],
+    [
+      "s23gUv",
+      "https://example.com"
+    ],
+    [
+      "mM6MMC",
+      "https://example.com"
     ]
   ],
   "statsStore": [
@@ -178,6 +202,54 @@
       "Sgo47E",
       {
         "createdAt": "2025-05-06T15:11:04.382Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "0-Y3fe",
+      {
+        "createdAt": "2025-05-06T15:35:36.216Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "3wi2Ir",
+      {
+        "createdAt": "2025-05-06T15:36:38.819Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "zCGNO4",
+      {
+        "createdAt": "2025-05-06T15:37:05.182Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "shll0v",
+      {
+        "createdAt": "2025-05-06T15:37:11.014Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "s23gUv",
+      {
+        "createdAt": "2025-05-06T15:37:17.230Z",
+        "visits": 0,
+        "lastVisited": null
+      }
+    ],
+    [
+      "mM6MMC",
+      {
+        "createdAt": "2025-05-06T15:37:25.111Z",
         "visits": 0,
         "lastVisited": null
       }
